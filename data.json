@@ -1,0 +1,22 @@
+{
+   "credentials":{
+    "email":"harsh.rawat@fealtyx.com",
+    "password":"fealtyx@12345"
+   },
+    "offerdetails":{
+      "offername":"offerx",
+      "offerdisplay":"43 421 test",
+      "offerterms":[
+        "finalterfasm"," 8term"
+      ],
+      "offertype":"instant",
+      "startdate":"August 23, 2024"
+
+    },
+    "discount":{
+      "type":"flat",
+      "mov":5254325,
+      "discountworth":1000
+    }
+  }
+  
